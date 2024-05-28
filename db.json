@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Clean Code",
+      "author": "Robert C. Martin",
+      "year": 2008
+    },
+    {
+      "id": 2,
+      "name": "Clean Architecture",
+      "author": "Robert C. Martin",
+      "year": 2017
+    }
+  ]
+}
